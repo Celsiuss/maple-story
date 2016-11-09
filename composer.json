@@ -1,0 +1,12 @@
+{
+    "name": "root/maple-story",
+    "description": "this is a hello world repo for composter",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Celsiuss",
+            "email": "912129091@qq.com"
+        }
+    ],
+    "require": {}
+}
